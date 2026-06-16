@@ -22,8 +22,8 @@
     "appId": "com.technologies-soft.restaurant",
     "productName": "تقنيات سوفت - مطاعم",
     "win": {
-      "target": "nsis",
-      "icon": "icon.ico"
+      "target": "nsis"
+      // تم حذف سطر "icon": "icon.ico"
     },
     "nsis": {
       "oneClick": false,
